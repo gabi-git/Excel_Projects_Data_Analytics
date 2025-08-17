@@ -5,7 +5,7 @@ Projects demonstrating my Excel skills
 
 <img width="1577" height="857" alt="project 1" src="https://github.com/user-attachments/assets/fbc6fcdd-4e42-4278-8a55-2c1c09897cb0" />
 
-## Salary Analysis [check it here](2_Project_Jobs_Power_Pivot_Query_DAX)
+## Salary Analysis [check it here](2_Project_Jobs_Power_Pivot_Query_DAX.xlsx)
 
 
 <img width="1450" height="836" alt="Project 2 e" src="https://github.com/user-attachments/assets/c7173e90-a042-445b-8917-bc1ec57b2423" />
